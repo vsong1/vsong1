@@ -8,10 +8,10 @@
 <p align="center"><img src="https://streak-stats.demolab.com?user=vsong1&theme=nightowl" /></p>
 
 ### 🐣 About Me
-- ✏️: I'm studying Quantitative Sciences in Informatics with a minor in Business at Emory University
+- ✏️: I'm studying Data Science in Informatics with a minor in Business at Emory University
 - 👩‍🎓: I'm graduating in May 2026
 - 😄: My pronouns are she/her/hers
-- 🔭: I'm looking to leverage my skills in an internship in ML or data science
+- 🔭: I'm looking for a career in data science or analytics
 
 ### 🎯 Featured Project
 Check out my work on this Bayesian regression project for Estée Lauder! My team and I developed a RDD model to analyze the effect of surprise gifts on retail customer spend, helping the company determine the effectiveness of this marketing tactic.
@@ -34,7 +34,7 @@ Some other noteworthy projects I've worked on include:
   - Skills Learned: exploratory data analysis, decision tree construction
 
 ### 🛠️ Tech Stack
-- Programming Languages: Python, R, Java, HTML/CSS, JavaScript, C
+- Programming Languages: Python, R, Java, JavaScript, HTML/CSS
 - Libraries & Frameworks: scikit-learn, Pandas, NumPy, matplotlib, statsmodels, NumPyro, Flask
 - Databases: PostgreSQL, Oracle
 - Development Tools: Jupyter Notebooks, Google Colab
